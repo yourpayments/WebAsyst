@@ -1,4 +1,5 @@
 (For PayU Ukraine and Russian ONLY)
+(Устаревший модуль. Не поддерживается)
 -------
 
 Модуль PayU для Webasyst ShopScript
