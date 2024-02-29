@@ -12,7 +12,7 @@
 		var $type = PAYMTD_TYPE_ONLINE;
 		var $language = 'rus';
 		var $default_logo = '/published/SC/html/img/logo-payu.png';
-		var $prUrl = "https://secure.payu.ru/order/lu.php";#"; 
+		var $prUrl = "https://secure.ypmn.ru/order/lu.php";#";
 		
 
 		var $useSSL = false;
@@ -63,9 +63,9 @@
 
 				
 				$this->SettingsFields['CONF_PAYU_LU_URL'] = array(
-					'settings_value' 			=> "https://secure.payu.ru/order/lu.php",
+					'settings_value' 			=> "https://secure.ypmn.ru/order/lu.php",
 					'settings_title' 			=> "LiveUpdate URL",
-					'settings_description' 		=> "Ссылка LiveUpdate (default : https://secure.payu.ru/order/lu.php)",
+					'settings_description' 		=> "Ссылка LiveUpdate (default : https://secure.ypmn.ru/order/lu.php)",
 					'settings_html_function' 	=> 'setting_TEXT_BOX(0,',
 					'sort_order' 				=> 1
 				);
