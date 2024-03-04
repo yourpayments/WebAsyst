@@ -1,9 +1,11 @@
-(For PayU Ukraine and Russian ONLY)
-(Устаревший модуль. Не поддерживается)
--------
+# «Твои платежи», модуль для Webasyst ShopScript
 
-Модуль PayU для Webasyst ShopScript
-======
+![](https://repository-images.githubusercontent.com/638835276/ff494b04-d65b-4843-8759-e85c689a7e80)
+
+[НКО «Твои Платежи»](https://YPMN.ru/ "Платёжная система для сайтов, платформ и приложений") - платёжная система для сайтов, платформ, игр и приложений.
+
+(Устаревший модуль. Не поддерживается)
+
 
 
 Файлы нужно разместить в таких дерикториях :
@@ -28,4 +30,4 @@
 
 ![Скриншот][1]
 
-[1]: https://raw.github.com/PayUUA/WebAsyst/master/settings.png
+[1]: https://raw.github.com/yourpayments/WebAsyst/master/settings.png
